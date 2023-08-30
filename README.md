@@ -1,1 +1,1 @@
-# rock-paper-scissors
+This program will enable the user to play rock-paper-scissors against the computer. I'll be applying my JavaScript skills to create the game and have it running in the browser console.
